@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecarse",
+        "uuid": 23327980,
+        "checksum": "bfuplp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
